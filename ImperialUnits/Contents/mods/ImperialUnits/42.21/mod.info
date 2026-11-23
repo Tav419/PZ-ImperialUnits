@@ -1,0 +1,5 @@
+name=Imperial Units
+id=ImperialUnits
+description=Shows gallons and pounds instead of litres, millilitres and kilograms. Feeding trough water (in its window and in the tooltip) and the animal zone's available water show in gallons. Animal weight shows in pounds (ounces for very small animals). Made by Tav419. Work in progress.
+versionMin=42.21
+modversion=0.1.0
